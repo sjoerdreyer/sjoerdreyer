@@ -4,7 +4,7 @@
 <h1 align="center">Hi there 👋 I'm Sjoerd</h1>
 <h3 align="center">Peruvian Dutch who is passionate about data</h3>
 
-- 🔭 I’m currently working on **My next aventure**
+- 🔭 I’m currently working on **My next adventure**
 
 - 🌱 I’m currently learning **Python for Data Science**
 
