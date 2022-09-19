@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **sjoerdreyer@gmail.com**
 
-- ⚡ Fun fact **I am in love with sports**
+- ⚡ Fun fact **Want to combine sports with analytics!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
