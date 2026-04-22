@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My next adventure**
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently learning **Data Data and more Data**
 
 - 💬 Ask me about **Python, Data, Statistics**
 
